@@ -1,4 +1,3 @@
-
 /*
  * Problem 07: 10001st Prime
  * Using Sieve of Eratosthene to filter out the prime numbers
